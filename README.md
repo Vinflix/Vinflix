@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vinflix
 - 👀 I’m interested in python programing
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python project
+- 💞️ I’m looking to collaborate on python projects
 - 😄 Pronouns: He
 
 
